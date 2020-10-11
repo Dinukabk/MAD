@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/sachitha2/SalonAPP" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sachitha2/SalonAPP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dinuka Bashana\Desktop" />
+    <option name="cloneParentDir" value="f:\Dinuka Bashana\Desktop" />
   </component>
 </application>
